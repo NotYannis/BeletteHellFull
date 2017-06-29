@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{99C2E062-8FFC-4C08-B77E-6F2D885DA095}" SchemaVersion="75">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{99C2E062-8FFC-4C08-B77E-6F2D885DA095}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Belette Hell" ID="{9A8E2BFB-C787-4B2D-8AFD-EA714C0D921A}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="js_weapons_laser_press" ID="{9D52333C-3925-4C24-B2CF-D991094A0099}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="js_weapons_rocket_launch" ID="{BEF1BA1E-0892-4576-8A93-CFD190D8FBD2}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="js_weapons_laser_release" ID="{3673144A-D669-4AC8-B918-001DAAAD3666}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Laser" ID="{D058C596-A0C8-4B14-BC62-E2236DCBD90B}" WorkUnitID="{8FE2149B-C216-4A02-9CF0-6C7BA82263DB}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="js_shield_launch" ID="{15747DE7-B928-4C2C-8B44-E866A3E44894}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_menu" ID="{27D48280-3BA4-47C6-82E5-31DEE45DA655}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="menu_validate" ID="{65E631A7-7A31-4CF7-8A04-BB2C9D98DADA}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="3" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="js_shield_destroy" ID="{4F544F27-160C-4F80-A723-80B1093E5A03}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="menu_choice" ID="{CC38758F-19C4-483A-A3BB-7537CF999C8A}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}"/>
+							<Position X="4" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

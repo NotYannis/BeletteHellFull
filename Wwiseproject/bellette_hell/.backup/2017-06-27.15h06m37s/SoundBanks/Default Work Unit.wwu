@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{016D26C1-FD68-4FA0-82F5-2DE07F88B901}" SchemaVersion="75">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{016D26C1-FD68-4FA0-82F5-2DE07F88B901}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="BeletteHell_Soundbank" ID="{3C38413A-B013-4154-B371-4C71DFD6F4C4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="jg_death" ID="{70BC73BF-51A4-408D-934C-552B5749843F}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_shield_gun" ID="{59BA4C82-03DF-4199-8232-D0C99E22690A}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_bonus" ID="{AB15AD1F-4B4C-4218-BA79-1C93A7F1B8BC}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_destroyweakpoint" ID="{5AF5667E-26D9-4345-AF22-FDF95B82A4AB}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="all_weapons_rocket_explosion" ID="{0B6A4D78-D649-43E5-9074-B26C9E28BABB}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_spawn_rocket" ID="{E6B986B2-FB15-44F0-87BE-DE8B03361C05}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_weapons_rocket_launch" ID="{BEF1BA1E-0892-4576-8A93-CFD190D8FBD2}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="intro_fight" ID="{738F58F3-C0A7-45B1-A1A5-9C9F40931A5B}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_menu" ID="{27D48280-3BA4-47C6-82E5-31DEE45DA655}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_shield_down" ID="{4D8895E9-F46E-4826-A9C4-5463FED32307}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="menu_choice" ID="{CC38758F-19C4-483A-A3BB-7537CF999C8A}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_weapons_gun" ID="{5C284855-A6E9-49D6-BF04-41935D204AFE}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_ship_gun" ID="{6F9E1FAD-D8A1-49FE-A554-762889769D1E}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_shield_rocket" ID="{7FB5F722-76FC-49FF-85E9-0BF9994B409E}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_weapons_trigun" ID="{7828703E-52E3-4A11-BF83-6E67C782E648}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_shield_laser" ID="{02ABFDB7-B917-4A40-BBE2-6978ECD3BDBE}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_weapons_laser_release" ID="{3673144A-D669-4AC8-B918-001DAAAD3666}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_weapons_laser_press" ID="{9D52333C-3925-4C24-B2CF-D991094A0099}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_shield_launch" ID="{15747DE7-B928-4C2C-8B44-E866A3E44894}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_lifedown" ID="{0F097371-6F54-4C5B-9636-AF8A36D2311D}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="menu_validate" ID="{65E631A7-7A31-4CF7-8A04-BB2C9D98DADA}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_null" ID="{CCF624C3-195D-4D83-AF1F-E2FFEEA870A6}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_ship_rocket" ID="{69E2A239-04B0-4E1C-90D8-05F44AEC0127}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="all_spawn" ID="{C04ED580-E3FF-4E2A-9ECC-7EE426997056}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_death" ID="{B12A0FC1-F13F-4F13-8B53-19542D73758D}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_victory" ID="{F9EC4400-479E-4F32-9A14-DE8716B7D2A8}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="intro_ready" ID="{D04D52CC-C3F8-4F50-8FBA-1E69B5A1FA12}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="js_shield_destroy" ID="{4F544F27-160C-4F80-A723-80B1093E5A03}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="jg_impact_ship_laser" ID="{8CCB55F3-EDA6-4F97-B3EC-6A6305F67ADE}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_ingame" ID="{E01488CA-46AD-4FCB-B0B9-94210D0F7CCA}" WorkUnitID="{E5E477C0-6C8D-4081-91C5-BABCD415B160}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5e887968f710f9489ad8a027e2f5449, type: 3}
+  m_Name: AkWwiseProjectData 3
+  m_EditorClassIdentifier: 
+  CurrentPluginConfig: 
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{E5E477C0-6C8D-4081-91C5-BABCD415B160}'
+    m_lastTimePsrt1: 1418174497
+    m_lastTimePart2: -1999356764
+    List:
+    - Name: all_spawn
+      Path: Default Work Unit\all_spawn
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: all_spawn
+        ObjectType: 3
+      ID: 1998892206
+      Guid: 80d54ec0ffe32a4e9ecc7ee426997056
+      maxAttenuation: 0
+    - Name: all_weapons_rocket_explosion
+      Path: Default Work Unit\all_weapons_rocket_explosion
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: all_weapons_rocket_explosion
+        ObjectType: 3
+      ID: 1591582167
+      Guid: 784d6a0b49d6e5439074b26c9e28babb
+      maxAttenuation: 0
+    - Name: intro_readyfight
+      Path: Default Work Unit\intro_readyfight
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: intro_readyfight
+        ObjectType: 3
+      ID: -11304887
+      Guid: ed7974ca2c2f414ba2099f340c7310cc
+      maxAttenuation: 0
+    - Name: jg_cards_click
+      Path: Default Work Unit\jg_cards_click
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_click
+        ObjectType: 3
+      ID: -699066967
+      Guid: abc4f7755c4a134faabe8670cf794f8a
+      maxAttenuation: 0
+    - Name: jg_cards_fasterwave
+      Path: Default Work Unit\jg_cards_fasterwave
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_fasterwave
+        ObjectType: 3
+      ID: -48532477
+      Guid: 3777c60cf1be724494c8624b98e245b8
+      maxAttenuation: 0
+    - Name: jg_cards_lifeup
+      Path: Default Work Unit\jg_cards_lifeup
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_lifeup
+        ObjectType: 3
+      ID: 290762418
+      Guid: ef9e298b685d9f44ba3dbe152452c4cc
+      maxAttenuation: 0
+    - Name: jg_cards_outofmana
+      Path: Default Work Unit\jg_cards_outofmana
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_outofmana
+        ObjectType: 3
+      ID: 68145203
+      Guid: 5bf062eb91276347a97cef71a65661e0
+      maxAttenuation: 0
+    - Name: jg_cards_shieldup
+      Path: Default Work Unit\jg_cards_shieldup
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_shieldup
+        ObjectType: 3
+      ID: 319188515
+      Guid: 0a24f18ff2ece945adc105a53fbd4e0b
+      maxAttenuation: 0
+    - Name: jg_cards_waveshield
+      Path: Default Work Unit\jg_cards_waveshield
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_cards_waveshield
+        ObjectType: 3
+      ID: -1115417813
+      Guid: 89fd66d76afc814cbd9b40f800b1329d
+      maxAttenuation: 0
+    - Name: jg_death
+      Path: Default Work Unit\jg_death
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_death
+        ObjectType: 3
+      ID: -594800545
+      Guid: bf73bc70a4518d40934c552b5749843f
+      maxAttenuation: 0
+    - Name: jg_impact_null
+      Path: Default Work Unit\jg_impact_null
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_null
+        ObjectType: 3
+      ID: 70642455
+      Guid: c324f6cc5d19834daf1fe2ffeea870a6
+      maxAttenuation: 0
+    - Name: jg_impact_shield_gun
+      Path: Default Work Unit\jg_impact_shield_gun
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_shield_gun
+        ObjectType: 3
+      ID: 562438424
+      Guid: 824cba59df0399418232d0c99e22690a
+      maxAttenuation: 0
+    - Name: jg_impact_shield_laser
+      Path: Default Work Unit\jg_impact_shield_laser
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_shield_laser
+        ObjectType: 3
+      ID: 792024147
+      Guid: b7fdab0217b9404abbe26978ecd3bdbe
+      maxAttenuation: 0
+    - Name: jg_impact_shield_rocket
+      Path: Default Work Unit\jg_impact_shield_rocket
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_shield_rocket
+        ObjectType: 3
+      ID: -1734676418
+      Guid: 22f7b57ffc76ff4985e90bf9994b409e
+      maxAttenuation: 0
+    - Name: jg_impact_ship_gun
+      Path: Default Work Unit\jg_impact_ship_gun
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_ship_gun
+        ObjectType: 3
+      ID: -204580015
+      Guid: ad1f9e6fa1d8fe49a554762889769d1e
+      maxAttenuation: 0
+    - Name: jg_impact_ship_laser
+      Path: Default Work Unit\jg_impact_ship_laser
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_ship_laser
+        ObjectType: 3
+      ID: -49047754
+      Guid: f355cb8ca6ed974fb3ec6a6305f67ade
+      maxAttenuation: 0
+    - Name: jg_impact_ship_rocket
+      Path: Default Work Unit\jg_impact_ship_rocket
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_impact_ship_rocket
+        ObjectType: 3
+      ID: -1951216051
+      Guid: 39a2e269b0041c4e90d805f44aec0127
+      maxAttenuation: 0
+    - Name: jg_shield_down
+      Path: Default Work Unit\jg_shield_down
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_shield_down
+        ObjectType: 3
+      ID: -2108546465
+      Guid: e995884d6ef42648a9c45463fed32307
+      maxAttenuation: 0
+    - Name: jg_spawn_rocket
+      Path: Default Work Unit\jg_spawn_rocket
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: jg_spawn_rocket
+        ObjectType: 3
+      ID: 1843422903
+      Guid: b286b9e615fbf04487bede8b03361c05
+      maxAttenuation: 0
+    - Name: js_bonus
+      Path: Default Work Unit\js_bonus
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_bonus
+        ObjectType: 3
+      ID: -1341739808
+      Guid: 1fad15ab4c4b1842ba791c93a7f1b8bc
+      maxAttenuation: 0
+    - Name: js_bonus_lifeup
+      Path: Default Work Unit\js_bonus_lifeup
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_bonus_lifeup
+        ObjectType: 3
+      ID: 1084510758
+      Guid: 36ef9ee7e85d3145bdd39582e8978f19
+      maxAttenuation: 0
+    - Name: js_death
+      Path: Default Work Unit\js_death
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_death
+        ObjectType: 3
+      ID: 577674387
+      Guid: c10f2ab13ff1134f8b5319542d73758d
+      maxAttenuation: 0
+    - Name: js_lifedown
+      Path: Default Work Unit\js_lifedown
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_lifedown
+        ObjectType: 3
+      ID: 177809813
+      Guid: 7173090f546f5b4c9636af8a36d2311d
+      maxAttenuation: 0
+    - Name: js_shield_destroy
+      Path: Default Work Unit\js_shield_destroy
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_shield_destroy
+        ObjectType: 3
+      ID: 978474035
+      Guid: 274f544f0c16804fa72380b1093e5a03
+      maxAttenuation: 0
+    - Name: js_shield_launch
+      Path: Default Work Unit\js_shield_launch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_shield_launch
+        ObjectType: 3
+      ID: 73033006
+      Guid: e77d741528b92c4c8b44e866a3e44894
+      maxAttenuation: 0
+    - Name: js_weapons_gun
+      Path: Default Work Unit\js_weapons_gun
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_weapons_gun
+        ObjectType: 3
+      ID: 1824302281
+      Guid: 5548285ce9a6d649bf0441935d204afe
+      maxAttenuation: 0
+    - Name: js_weapons_laser_press
+      Path: Default Work Unit\js_weapons_laser_press
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_weapons_laser_press
+        ObjectType: 3
+      ID: -2077100798
+      Guid: 3c33529d2539244cb2cfd991094a0099
+      maxAttenuation: 0
+    - Name: js_weapons_laser_release
+      Path: Default Work Unit\js_weapons_laser_release
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_weapons_laser_release
+        ObjectType: 3
+      ID: -423340340
+      Guid: 4a14733669d6c84ab918001daaad3666
+      maxAttenuation: 0
+    - Name: js_weapons_rocket_launch
+      Path: Default Work Unit\js_weapons_rocket_launch
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_weapons_rocket_launch
+        ObjectType: 3
+      ID: 1360354241
+      Guid: 1ebaf1be920876458a93cfd190d8fbd2
+      maxAttenuation: 0
+    - Name: js_weapons_trigun
+      Path: Default Work Unit\js_weapons_trigun
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: js_weapons_trigun
+        ObjectType: 3
+      ID: 281107502
+      Guid: 3e702878e352114abf836e67c782e648
+      maxAttenuation: 0
+    - Name: menu_choice
+      Path: Default Work Unit\menu_choice
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: menu_choice
+        ObjectType: 3
+      ID: -379496726
+      Guid: 8f7538ccc4193a48a3bb7537cf999c8a
+      maxAttenuation: 0
+    - Name: menu_validate
+      Path: Default Work Unit\menu_validate
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: menu_validate
+        ObjectType: 3
+      ID: -1196433743
+      Guid: a731e665317af74c8a04bb2c9d98dada
+      maxAttenuation: 0
+    - Name: music_ingame
+      Path: Default Work Unit\music_ingame
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music_ingame
+        ObjectType: 3
+      ID: -2108388990
+      Guid: ca8814e0ad46cb4fb0b994210d0f7cca
+      maxAttenuation: 0
+    - Name: music_menu
+      Path: Default Work Unit\music_menu
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music_menu
+        ObjectType: 3
+      ID: 1598298728
+      Guid: 8082d427a43bc64782e531dee45da655
+      maxAttenuation: 0
+    - Name: music_victory
+      Path: Default Work Unit\music_victory
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music_victory
+        ObjectType: 3
+      ID: -1657566599
+      Guid: 0044ecf99e47324f9a14de8716b7d2a8
+      maxAttenuation: 0
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{5834EFF2-3F1A-450B-BC7F-CA3B458B2A21}'
+    m_lastTimePsrt1: 251885663
+    m_lastTimePart2: -1999356792
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{822F9D99-7B15-4669-850F-44DF0A2F10DF}'
+    m_lastTimePsrt1: 251915700
+    m_lastTimePart2: -1999356792
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{004DD2B0-FB18-4450-83B8-678EBF464DC2}'
+    m_lastTimePsrt1: 252085920
+    m_lastTimePart2: -1999356792
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{016D26C1-FD68-4FA0-82F5-2DE07F88B901}'
+    m_lastTimePsrt1: -1709200952
+    m_lastTimePart2: -1999356765
+    List:
+    - Name: BeletteHell_Soundbank
+      Path: Default Work Unit\BeletteHell_Soundbank
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: BeletteHell_Soundbank
+        ObjectType: 7
+      ID: 567557507
+      Guid: 3a41383c13b05441b3714c71dfd6f4c4
+  ExpandedItems: []
+  m_lastPopulateTimePsrt1: 0
+  m_lastPopulateTimePart2: 0
+  autoPopulateEnabled: 1
+  basePath: Audio\GeneratedSoundBanks
+  language: English(US)
+  defaultPoolSize: 4096
+  lowerPoolSize: 2048
+  streamingPoolSize: 1024
+  preparePoolSize: 0
+  memoryCutoffThreshold: 0.95

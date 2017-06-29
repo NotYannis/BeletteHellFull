@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{50EFCC2D-9971-46AB-9FCA-FB95CEF450A4}">
+		<Banks>
+			<Language ID="0">
+				<File Name="BeletteHell_Soundbank" Hash="331406207" Timestamp="131289946307400390"/>
+				<File Name="Init" Hash="3253083914" Timestamp="131289946307762302"/>
+			</Language>
+			<Language ID="393239870">
+				<File Name="BeletteHell_Soundbank" Hash="502980184" Timestamp="131430503112315686"/>
+				<File Name="Init" Hash="2017230145" Timestamp="131430503112395696"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3902115951" Timestamp="131430503112425678"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{5A45CC94-967D-4B03-A310-42D8D2611E14}">
+		<Banks>
+			<Language ID="0">
+				<File Name="BeletteHell_Soundbank" Hash="331406207" Timestamp="131289967735761038"/>
+				<File Name="Init" Hash="2889213719" Timestamp="131289967735951185"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="2556034907" Timestamp="131289967736119568"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

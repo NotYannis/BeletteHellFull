@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 7fc1660b571844c4abcb767f64249b46
+timeCreated: 1484414459
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion-boss_260x272_0
+    21300002: explosion-boss_260x272_1
+    21300004: explosion-boss_260x272_2
+    21300006: explosion-boss_260x272_3
+    21300008: explosion-boss_260x272_4
+    21300010: explosion-boss_260x272_5
+    21300012: explosion-boss_260x272_6
+    21300014: explosion-boss_260x272_7
+    21300016: explosion-boss_260x272_8
+    21300018: explosion-boss_260x272_9
+    21300020: explosion-boss_260x272_10
+    21300022: explosion-boss_260x272_11
+    21300024: explosion-boss_260x272_12
+    21300026: explosion-boss_260x272_13
+    21300028: explosion-boss_260x272_14
+    21300030: explosion-boss_260x272_15
+    21300032: explosion-boss_260x272_16
+    21300034: explosion-boss_260x272_17
+    21300036: explosion-boss_260x272_18
+    21300038: explosion-boss_260x272_19
+    21300040: explosion-boss_260x272_20
+    21300042: explosion-boss_260x272_21
+    21300044: explosion-boss_260x272_22
+    21300046: explosion-boss_260x272_23
+    21300048: explosion-boss_260x272_24
+    21300050: explosion-boss_260x272_25
+    21300052: explosion-boss_260x272_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 11
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-boss_260x272_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1088
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1088
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1088
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1088
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1088
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_11
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 816
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_16
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_17
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 544
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_22
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_23
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 272
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion-boss_260x272_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
